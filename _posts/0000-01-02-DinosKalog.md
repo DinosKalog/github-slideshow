@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Impostor syndrome is gonna be my end..
 Use the left arrow to go back!
